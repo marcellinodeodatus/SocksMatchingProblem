@@ -1,5 +1,5 @@
-Sock Matching Problem
-This repository contains two Java programs that solve variations of the Sock Matching Problem:
+**Sock Matching Problem
+**This repository contains two Java programs that solve variations of the Sock Matching Problem:
 
 Socks.java: Matches socks that are identical in both color and adjective.
 SocksExtraCredit.java: Matches socks that share either the same color or adjective.
@@ -127,6 +127,4 @@ Blue Casual and Green Casual
 Blue Athletic and Blue Athletic
 Red Athletic and Red Athletic
 Red Athletic and Red Athletic
-License
-This project is open-source and available under the MIT License.
 
