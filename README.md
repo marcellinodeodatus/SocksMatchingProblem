@@ -1,4 +1,4 @@
-**Sock Matching Problem
+Sock Matching Problem
 **This repository contains two Java programs that solve variations of the Sock Matching Problem:
 
 Socks.java: Matches socks that are identical in both color and adjective.
