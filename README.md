@@ -16,19 +16,21 @@ In Socks.java, two socks form a pair if both the color and the adjective are the
 In SocksExtraCredit.java, two socks form a pair if either the color or the adjective matches.</p>
 
 <p>Sample Input:
-11
-Blue Casual
-Gray Athletic
-Blue Athletic
-Blue Casual
-Red Athletic
-Green Casual
-Red Athletic
-Blue Casual
-Blue Athletic
-Red Athletic
-Red Athletic
+<p>11</p>
+<p>Blue Casual</p>
+<p>Gray Athletic</p>
+<p>Blue Athletic</p>
+<p>Blue Casual</p>
+<p>Red Athletic</p>
+<p>Red Athletic</p>
+<p>Green Casual</p>
+<p>Red Athletic</p>
+<p>Blue Casual</p>
+<p>Blue Athletic</p>
+<p>Red Athletic</p>
+<p>Red Athletic</p>
 </p>
+
 <p>Expected Output (for Extra Credit):
 5 matching pairs
 Blue Casual and Blue Casual
