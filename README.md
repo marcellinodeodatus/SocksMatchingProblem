@@ -10,8 +10,6 @@ Matches socks that share either the same color or adjective.
 <p>Problem Description</p>
 <p>Features</p>
 <p>Requirements</p>
-<p>How to Compile and Run</p>
-
 ## Problem Description
 <p> You have a drawer of socks, where each sock has two attributes: a color and an adjective. The goal is to find matching pairs of socks.
 In Socks.java, two socks form a pair if both the color and the adjective are the same.
@@ -52,7 +50,8 @@ Lists the exact socks in each matching pair.
 Tracks which socks have already been paired.
 
 ## Requirements
-Java Development Kit (JDK) 8 or above.
+<p>Java Development Kit (JDK) 8 or above.
 A text file containing the list of socks (one per line) with the following format:
 First line: Number of socks in the drawer.
 Subsequent lines: Two-word description of each sock (e.g., Blue Casual).
+</p>
