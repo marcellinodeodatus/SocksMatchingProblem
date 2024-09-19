@@ -1,9 +1,12 @@
 # Sock Matching Problem
 ## This repository contains two Java programs that solve variations of the Sock Matching Problem:
 
-### Socks.java: #### Matches socks that are identical in both color and adjective.
-### SocksExtraCredit.java: #### Matches socks that share either the same color or adjective.
-Table of Contents
+### Socks.java: 
+Matches socks that are identical in both color and adjective.
+### SocksExtraCredit.java:
+Matches socks that share either the same color or adjective.
+
+## Table of Contents
 Problem Description
 Features
 Requirements
@@ -11,7 +14,6 @@ How to Compile and Run
 Program Details
 Socks.java
 SocksExtraCredit.java
-Example Input and Output
 Problem Description
 You have a drawer of socks, where each sock has two attributes: a color and an adjective. The goal is to find matching pairs of socks.
 
