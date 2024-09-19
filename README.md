@@ -10,13 +10,10 @@ Matches socks that share either the same color or adjective.
 <p>Problem Description</p>
 <p>Features</p>
 <p>Requirements</p>
-How to Compile and Run
-Program Details
-Socks.java
-SocksExtraCredit.java
-Problem Description
-<p> You have a drawer of socks, where each sock has two attributes: a color and an adjective. The goal is to find matching pairs of socks.</p>
+<p>How to Compile and Run</p>
 
+Problem Description
+<p> You have a drawer of socks, where each sock has two attributes: a color and an adjective. The goal is to find matching pairs of socks.
 In Socks.java, two socks form a pair if both the color and the adjective are the same.
 In SocksExtraCredit.java, two socks form a pair if either the color or the adjective matches.
 Sample Input:
@@ -129,4 +126,4 @@ Blue Casual and Green Casual
 Blue Athletic and Blue Athletic
 Red Athletic and Red Athletic
 Red Athletic and Red Athletic
-
+</p>
