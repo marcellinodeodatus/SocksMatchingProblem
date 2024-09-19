@@ -7,9 +7,9 @@ Matches socks that are identical in both color and adjective.
 Matches socks that share either the same color or adjective.
 
 ## Table of Contents
-Problem Description
-Features
-Requirements
+<p>Problem Description</p>
+<p>Features</p>
+<p>Requirements</p>
 How to Compile and Run
 Program Details
 Socks.java
