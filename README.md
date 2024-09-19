@@ -15,7 +15,7 @@ Program Details
 Socks.java
 SocksExtraCredit.java
 Problem Description
-You have a drawer of socks, where each sock has two attributes: a color and an adjective. The goal is to find matching pairs of socks.
+<p> You have a drawer of socks, where each sock has two attributes: a color and an adjective. The goal is to find matching pairs of socks.</p>
 
 In Socks.java, two socks form a pair if both the color and the adjective are the same.
 In SocksExtraCredit.java, two socks form a pair if either the color or the adjective matches.
