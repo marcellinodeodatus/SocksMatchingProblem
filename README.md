@@ -5,7 +5,7 @@ This repository contains two Java programs that solve variations of the **Sock M
 `SocksExtraCredit.java`: Matches socks that share either the same color or adjective.<br>
 
 ## Problem Description
-<p> You have a drawer of socks, where each sock has two attributes: a **color** and **adjective**. The goal is to find matching pairs of socks.
+You have a drawer of socks, where each sock has two attributes: a **color** and **adjective**. The goal is to find matching pairs of socks.
 <ul>
 <li>In **Socks.java**, two socks form a pair if both the color and the adjective are the same.</li>
 <li>In **SocksExtraCredit.java**, two socks form a pair if either the color or the adjective matches.</p></li>
